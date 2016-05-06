@@ -34,8 +34,8 @@ Agencies that are added to lists should offer web development or design services
 
 1. Follow the required structure when adding new files. _([see below](#folder-structure))_
 1. Use the area's name as the filename. _(lowercase and hyphenated, no spaces please!)_
-1. Use the "Area/City" template for the README file. _([see below](#templates))_
-    - Some files will be a little different if the location doesn't have an "area". In this case, just use the city name as the filename and omit the city headings and table of contents.
+1. Use the "Area" template for the README file. _([see below](#templates))_
+    - Some files will be a little different if the location doesn't have an "area". In this case, just use the city name as the filename and use the "City" template.
 
 
 ## Adding a new country folder
@@ -53,24 +53,32 @@ Agencies that are added to lists should offer web development or design services
       |
       |--- <country>
          |
-         |--- <area (state, province, etc...)>.md
+         |--- <area|city>.md
 ```
 
 
 ## Templates
 
-#### Area/City
+#### Area
 
 ```
-# <area name>
+# <Area name>
 
 ### Table of Contents
 
-- [<city name>](#<city-slug>)
+- [<City name>](#<city-slug>)
 
 ---
 
-##### <city name>
+##### <City name>
+
+- [Agency Name](http://agency-website.com)
+```
+
+#### City
+
+```
+# <City name>
 
 - [Agency Name](http://agency-website.com)
 ```
