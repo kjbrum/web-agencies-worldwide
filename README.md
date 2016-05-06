@@ -1,6 +1,6 @@
 # Awesome Web Agencies [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> An awesome list of web agencies all around the world.
+> A massive list of web agencies all around the world.
 
 This is meant to be a resource to help others find web agencies in specific areas all around the world. This list can be a great asset when job searching.
 
