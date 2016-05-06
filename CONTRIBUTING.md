@@ -15,10 +15,10 @@ Agencies that are added to lists should offer web development or design services
 
 ## Overview
 
+- Pull requests and commits should have useful titles.
 - "Area" (state, province, territory, etc...)/city files hold lists of agencies.
 - "Area"/city files are placed inside of their respective country folder.
-- Country folders are placed inside of their respective continent folders.
-
+- Country folders are placed inside of their respective continent folder.
 
 ## Adding a new agency
 
