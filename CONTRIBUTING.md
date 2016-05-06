@@ -26,6 +26,8 @@ Agencies that are added to lists should offer web development or design services
     - If the necessary country folder or "area"/city file doesn't already exist, feel free to create it! _([see below](#adding-a-new-area-file))_
 1. If the city isn't already on the list, be sure to add a new section and add it to the table of contents.
 1. Exclude `www` and the trailing slash from the link.
+    - __Correct__: `http://example.com`
+    - __Incorrect__: `http://www.example.com/`
 1. Keep lists organized alphabetically by city, and then alphabetically by agency name _(numbers/symbols first)_.
 1. If an agency has offices in multiple cities, be sure to add it to all of the "area"/city files.
 
