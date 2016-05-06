@@ -13,6 +13,7 @@ This is meant to be a resource to help others find web agencies in specific area
 - [Australia](./agencies/australia)
 - [Europe](./agencies/europe)
 - [North America](./agencies/north-america)
+- [Oceania](./agencies/oceania)
 - [South America](./agencies/south-emerica)
 
 
