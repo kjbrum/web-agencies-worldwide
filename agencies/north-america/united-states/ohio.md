@@ -4,6 +4,7 @@
 
 - [Cincinnati](#cincinnati)
 - [Cleveland](#cleveland)
+- [Dayton](#dayton)
 
 ---
 
@@ -14,3 +15,7 @@
 ##### Cleveland
 
 - [TWIST Creative](http://twist-creative.com/)
+
+##### Dayton
+
+- [Sparkbox](http://seesparkbox.com)
