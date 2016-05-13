@@ -5,6 +5,7 @@
 - [Ames](#ames)
 - [Cedar Falls](#cedar-falls)
 - [Cedar Rapids](#cedar-rapids)
+- [Davenport](#davenport)
 - [Des Moines](#des-moines)
 - [Hiawatha](#hiawatha)
 - [Iowa City](#iowa-city)
@@ -26,6 +27,10 @@
 ##### Cedar Rapids
 
 - [Fusionfarm](http://fusionfarm.com)
+
+##### Davenport
+
+- [Nerdwerx](http://nerdwerx.com)
 
 ##### Des Moines
 

@@ -11,11 +11,11 @@
 ##### Cincinnati
 
 - [Mindbox Studios](http://mindboxstudios.com)
-- [Round Pixel](http://rndpxl.com/)
+- [Round Pixel](http://rndpxl.com)
 
 ##### Cleveland
 
-- [TWIST Creative](http://twist-creative.com/)
+- [TWIST Creative](http://twist-creative.com)
 
 ##### Dayton
 
