@@ -11,6 +11,7 @@
 ##### Cincinnati
 
 - [Mindbox Studios](http://mindboxstudios.com)
+- [Round Pixel](http://rndpxl.com/)
 
 ##### Cleveland
 
