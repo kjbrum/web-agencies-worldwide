@@ -55,7 +55,7 @@
 - [Blitz](http://blitzagency.com)
 - [Critical Mass](http://criticalmass.com)
 - [Maverick Agency](http://maverickagency.ca)
-- [Struck](http://www.struck.com)
+- [Struck](http://struck.com)
 - [The Flock](http://theflock.com)
 
 ##### Mountain View

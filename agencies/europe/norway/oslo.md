@@ -5,4 +5,4 @@
 - [Good Morning](http://good-morning.no)
 - [Try/Apt](http://tryapt.no)
 - [Unfold](http://unfold.no)
-- [Vaersaagod](http://www.vaersaagod.no)
+- [Vaersaagod](http://vaersaagod.no)

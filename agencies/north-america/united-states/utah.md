@@ -11,6 +11,6 @@
 - [Objective](http://objectiveinc.com)
 - [Rally Interactive](http://rallyinteractive.com)
 - [RED](http://ff0000.com)
-- [Struck](http://www.struck.com)
+- [Struck](http://struck.com)
 - [Underbelly](http://underbelly.is)
 - [welikesmall](http://welikesmall.com)

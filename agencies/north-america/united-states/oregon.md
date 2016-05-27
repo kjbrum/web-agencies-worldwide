@@ -34,7 +34,7 @@
 - [Roundhouse](http://roundhouseagency.com)
 - [Sasquatch](http://sasquatchagency.com)
 - [Say Media](http://saymedia.com)
-- [Struck](http://www.struck.com)
+- [Struck](http://struck.com)
 - [Subtext](http://subtextdigital.com)
 - [The Brigade](https://thisisthebrigade.com)
 - [The Flock](http://theflock.com)

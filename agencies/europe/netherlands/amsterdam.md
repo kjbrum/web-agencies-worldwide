@@ -1,3 +1,3 @@
 # Amsterdam
 
-- [Achtung](http://www.achtung.nl)
+- [Achtung](http://achtung.nl)

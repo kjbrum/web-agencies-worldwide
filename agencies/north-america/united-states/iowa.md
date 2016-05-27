@@ -34,7 +34,7 @@
 
 ##### Des Moines
 
-- [Covenant Web Design](http://www.covenantdesign.com)
+- [Covenant Web Design](http://covenantdesign.com)
 - [Eight Seven Central](http://eightsevencentral.com)
 - [Flying Hippo](http://flyinghippo.com)
 - [Happy Medium](http://itsahappymedium.com)
