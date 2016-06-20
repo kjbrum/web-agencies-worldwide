@@ -54,6 +54,7 @@
 - [B-Reel](http://b-reel.com)
 - [Blitz](http://blitzagency.com)
 - [Critical Mass](http://criticalmass.com)
+- [Fisherman Labs](http://fishermenlabs.com)
 - [Maverick Agency](http://maverickagency.ca)
 - [Struck](http://struck.com)
 - [The Flock](http://theflock.com)
