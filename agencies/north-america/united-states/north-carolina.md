@@ -6,6 +6,7 @@
 - [Charlotte](#charlotte)
 - [Durham](#durham)
 - [Raleigh](#raleigh)
+- [Winston-Salem](#winston-salem)
 
 ---
 
@@ -25,3 +26,7 @@
 ##### Raleigh
 
 - [O3 Creative](http://weareo3.com)
+
+##### Winston-Salem
+
+- [Airtype](http://airtype.com)

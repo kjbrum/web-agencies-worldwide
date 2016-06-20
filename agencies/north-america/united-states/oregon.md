@@ -19,6 +19,7 @@
 
 ##### Portland
 
+- [Airtype](http://airtype.com)
 - [Block 81](http://block81.com)
 - [Cinco](http://cincodesign.com)
 - [Copious](http://copio.us)
