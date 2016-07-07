@@ -6,6 +6,7 @@
 - [Burbank](#burbank)
 - [Costa Mesa](#costa-mesa)
 - [Culver City](#culver-city)
+- [El Cerrito](#el-cerrito)
 - [Irvine](#irvine)
 - [Long Beach](#long-beach)
 - [Los Angeles](#los-angeles)
@@ -39,6 +40,10 @@
 - [Fuel](http://fuelyouth.com)
 - [Hello](http://hellodesign.com)
 - [Wildlife](http://wildlife.la)
+
+#### El Cerrito
+
+- [Resn](http://resn.co.nz)
 
 ##### Irvine
 
