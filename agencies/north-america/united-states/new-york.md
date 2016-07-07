@@ -46,3 +46,4 @@
 - [The Barbarian Group](http://barbariangroup.com)
 - [VSA Partners](http://vsapartners.com)
 - [welikesmall](http://welikesmall.com)
+- [Your Majesty](http://yourmajesty.co)
