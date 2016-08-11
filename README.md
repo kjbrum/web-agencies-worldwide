@@ -1,4 +1,4 @@
-# Awesome Web Agencies
+# Web Agencies
 
 > A massive list of web agencies all around the world.
 
