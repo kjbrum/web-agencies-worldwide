@@ -1,4 +1,4 @@
-# Web Agencies
+# Web Agencies Worldwide
 
 > A massive list of web agencies all around the world.
 
