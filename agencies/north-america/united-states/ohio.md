@@ -10,6 +10,7 @@
 
 ##### Cincinnati
 
+- [Gaslight](https://teamgaslight.com)
 - [Mindbox Studios](http://mindboxstudios.com)
 - [Round Pixel](http://rndpxl.com)
 
