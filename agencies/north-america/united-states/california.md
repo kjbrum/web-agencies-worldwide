@@ -89,6 +89,7 @@
 
 - [Beyond](http://bynd.com)
 - [Fantasy](http://fantasy.co)
+- [Harlo Interactive](http://harlointeractive.com)
 - [Hot Studio](http://hotstudio.com)
 - [Infinite Red](https://infinite.red)
 - [Odopod](http://odopod.com)
