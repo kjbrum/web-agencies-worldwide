@@ -8,4 +8,4 @@
 
 ##### Lewiston
 
-- [Anchour](https://www.anchour.com)
+- [Anchour](https://anchour.com)

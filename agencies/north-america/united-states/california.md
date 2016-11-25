@@ -97,6 +97,7 @@
 - [rehabstudio](http://rehabstudio.com)
 - [Say Media](http://saymedia.com)
 - [Substantial](https://substantial.com)
+- [ThoughtLab](https://thoughtlab.com)
 - [Venables Bell & Partners](http://venablesbell.com)
 - [Yeti](https://yeti.co)
 

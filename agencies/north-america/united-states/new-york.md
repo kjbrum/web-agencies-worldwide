@@ -44,6 +44,7 @@
 - [space150](http://space150.com)
 - [Tapmates](http://tapmates.com)
 - [The Barbarian Group](http://barbariangroup.com)
+- [ThoughtLab](https://thoughtlab.com)
 - [VSA Partners](http://vsapartners.com)
 - [welikesmall](http://welikesmall.com)
 - [Your Majesty](http://yourmajesty.co)

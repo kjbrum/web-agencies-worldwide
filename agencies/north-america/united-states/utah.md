@@ -13,6 +13,7 @@
 - [Rally Interactive](http://rallyinteractive.com)
 - [RED](http://ff0000.com)
 - [Struck](http://struck.com)
+- [ThoughtLab](https://www.thoughtlab.com)
 - [Underbelly](http://underbelly.is)
 - [welikesmall](http://welikesmall.com)
 
