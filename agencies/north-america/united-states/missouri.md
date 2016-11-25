@@ -11,7 +11,7 @@
 ##### Kansas City
 
 - [40Digits](http://40digits.com)
-- [Crema Lab](http://crema.us)
+- [Crema](http://crema.us)
 
 ##### Springfield
 
