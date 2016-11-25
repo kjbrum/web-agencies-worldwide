@@ -3,6 +3,7 @@
 ### Table of Contents
 
 - [Salt Lake City](#salt-lake-city)
+- [Sandy](#sandy)
 
 ---
 
@@ -14,3 +15,7 @@
 - [Struck](http://struck.com)
 - [Underbelly](http://underbelly.is)
 - [welikesmall](http://welikesmall.com)
+
+##### Sandy
+
+- [Red Olive](http://www.redolive.com)
