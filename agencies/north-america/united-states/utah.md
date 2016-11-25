@@ -11,7 +11,7 @@
 
 - [Firetoss](https://firetoss.com)
 - [Objective](http://objectiveinc.com)
-- [Rally Interactive](http://rallyinteractive.com)
+- [Rally Interactive](http://beta.rallyinteractive.com/)
 - [RED](http://ff0000.com)
 - [Struck](http://struck.com)
 - [ThoughtLab](https://thoughtlab.com)
