@@ -26,7 +26,7 @@
 - [Orbit Media Studios](http://orbitmedia.com)
 - [Palantir](http://palantir.net)
 - [Someoddpilot](http://someoddpilot.com)
-- [Tighten Co](https://tighten.co)
+- [Tighten Co.](https://tighten.co)
 - [UnitOneNine](http://unitonenine.com)
 - [UpShift Creative](http://upshiftcreative.com)
 - [VSA Partners](http://vsapartners.com)
