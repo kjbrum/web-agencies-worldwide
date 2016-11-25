@@ -11,6 +11,7 @@
 - [Manchester](#manchester)
 - [Matlock](#matlock)
 - [Nottingham](#nottingham)
+- [Romsey](#romsey)
 - [Southsea](#southsea)
 
 ---
@@ -72,6 +73,10 @@
 ##### Nottingham
 
 - [Adtrak](http://adtrak.co.uk)
+
+##### Romsey
+
+- [FHOKE](http://fhoke.com)
 
 ##### Southsea
 
