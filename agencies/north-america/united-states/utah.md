@@ -9,14 +9,15 @@
 
 ##### Salt Lake City
 
+- [Firetoss](https://firetoss.com)
 - [Objective](http://objectiveinc.com)
 - [Rally Interactive](http://rallyinteractive.com)
 - [RED](http://ff0000.com)
 - [Struck](http://struck.com)
-- [ThoughtLab](https://www.thoughtlab.com)
+- [ThoughtLab](https://thoughtlab.com)
 - [Underbelly](http://underbelly.is)
 - [welikesmall](http://welikesmall.com)
 
 ##### Sandy
 
-- [Red Olive](http://www.redolive.com)
+- [Red Olive](http://redolive.com)

@@ -22,6 +22,7 @@
 - [Airtype](http://airtype.com)
 - [Block 81](http://block81.com)
 - [Cinco](http://cincodesign.com)
+- [Connective DX](https://connectivedx.com)
 - [Copious](http://copio.us)
 - [Daylight](http://thedaylightstudio.com)
 - [Emerge Interactive](http://emergeinteractive.com)
