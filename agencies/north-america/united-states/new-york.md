@@ -42,6 +42,7 @@
 - [rehabstudio](http://rehabstudio.com)
 - [Simple as Milk](http://simpleasmilk.com)
 - [space150](http://space150.com)
+- [T Brand Studio](http://tbrandstudio.com)
 - [Tapmates](http://tapmates.com)
 - [The Barbarian Group](http://barbariangroup.com)
 - [ThoughtLab](https://thoughtlab.com)
