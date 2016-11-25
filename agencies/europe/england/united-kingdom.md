@@ -53,6 +53,7 @@
 - [Fueled](http://fueled.com)
 - [Moove Agency](http://mooveagency.com)
 - [rehabstudio](http://rehabstudio.com)
+- [Toaster](https://toaster.co)
 - [93digital](https://93digital.co.uk)
 
 ##### Manchester
