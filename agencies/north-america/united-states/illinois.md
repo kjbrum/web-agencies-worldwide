@@ -19,6 +19,7 @@
 - [Fueled](http://fueled.com)
 - [Gorilla Group](http://gorillagroup.com)
 - [Juice Interactive](http://juiceinteractive.com)
+- [Knock, Inc.](http://knockinc.com)
 - [Knoed Creative](http://knoed.com)
 - [kohactive](http://kohactive.com)
 - [Nelson Cash](http://nelsoncash.com)

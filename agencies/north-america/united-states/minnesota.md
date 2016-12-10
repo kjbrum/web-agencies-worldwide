@@ -19,6 +19,7 @@
 - [Colle + McVoy](http://collemcvoy.com)
 - [fjorge](http://fjorgedigital.com)
 - [Internet Exposure](http://iexposure.com)
+- [Knock, Inc.](http://knockinc.com)
 - [Lunar](http://lunarmpls.com)
 - [Modern Climate](http://modernclimate.com)
 - [space150](http://space150.com)
